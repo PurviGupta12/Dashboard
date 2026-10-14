@@ -1,0 +1,29 @@
+OrderDate,CustomerName,State,Category,PaymentMode,SubCategory,Amount,Quantity,Profit,Month,AOV
+2025-01-05,Aarav Sharma,Maharashtra,Clothing,UPI,Kurta,1250,2,280,Jan,625.0
+2025-01-12,Madhav Verma,Uttar Pradesh,Electronics,Credit Card,Headphones,3200,1,640,Jan,3200.0
+2025-01-18,Kavya Singh,Delhi,Clothing,COD,Saree,2400,2,520,Jan,1200.0
+2025-02-03,Rohan Gupta,Madhya Pradesh,Furniture,Debit Card,Table,5600,1,780,Feb,5600.0
+2025-02-14,Isha Patel,Maharashtra,Electronics,UPI,Smart Watch,4500,1,900,Feb,4500.0
+2025-02-22,Dev Kumar,Rajasthan,Clothing,Credit Card,T-shirt,900,3,270,Feb,300.0
+2025-03-06,Anaya Joshi,Uttar Pradesh,Clothing,COD,Jeans,1800,2,360,Mar,900.0
+2025-03-15,Arjun Mehta,Delhi,Electronics,Debit Card,Keyboard,2100,1,420,Mar,2100.0
+2025-03-25,Meera Nair,Maharashtra,Furniture,Credit Card,Bookshelf,7200,1,1080,Mar,7200.0
+2025-04-04,Kabir Shah,Rajasthan,Clothing,UPI,Dress,1600,2,320,Apr,800.0
+2025-04-13,Sana Khan,Madhya Pradesh,Electronics,COD,Earbuds,2800,1,560,Apr,2800.0
+2025-04-27,Vivaan Das,Maharashtra,Clothing,Debit Card,Saree,2600,2,600,Apr,1300.0
+2025-05-02,Diya Rao,Uttar Pradesh,Furniture,UPI,Chair,3900,1,585,May,3900.0
+2025-05-19,Aditya Jain,Delhi,Clothing,Credit Card,Kurta,1400,2,308,May,700.0
+2025-06-08,Myra Kapoor,Madhya Pradesh,Electronics,UPI,Power Bank,1700,2,340,Jun,850.0
+2025-06-21,Reyansh Bose,Maharashtra,Clothing,COD,Shoes,3100,1,620,Jun,3100.0
+2025-07-07,Aditi Mishra,Rajasthan,Furniture,Debit Card,Side Table,4800,1,720,Jul,4800.0
+2025-07-20,Krish Malhotra,Uttar Pradesh,Electronics,Credit Card,Speaker,3600,1,720,Jul,3600.0
+2025-08-11,Pari Chawla,Delhi,Clothing,UPI,Top,1100,3,330,Aug,366.67
+2025-08-24,Atharv Sinha,Maharashtra,Electronics,COD,Mouse,1300,2,260,Aug,650.0
+2025-09-09,Navya Iyer,Madhya Pradesh,Clothing,Credit Card,Jeans,2200,2,440,Sep,1100.0
+2025-09-23,Yash Thakur,Rajasthan,Furniture,UPI,Desk,6500,1,975,Sep,6500.0
+2025-10-05,Aanya Roy,Uttar Pradesh,Clothing,Debit Card,Dress,1900,2,380,Oct,950.0
+2025-10-19,Dhruv Sethi,Delhi,Electronics,Credit Card,Monitor,8900,1,1780,Oct,8900.0
+2025-11-02,Tara Kulkarni,Maharashtra,Clothing,COD,Saree,2500,2,500,Nov,1250.0
+2025-11-16,Neil Fernandes,Madhya Pradesh,Electronics,UPI,Router,2700,1,540,Nov,2700.0
+2025-12-03,Siya Bansal,Uttar Pradesh,Furniture,Credit Card,Cabinet,8100,1,1215,Dec,8100.0
+2025-12-20,Om Prakash,Rajasthan,Clothing,UPI,Jacket,3400,1,680,Dec,3400.0
